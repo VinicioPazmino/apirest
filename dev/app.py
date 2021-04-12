@@ -3,10 +3,9 @@ import jwt
 
 app = Flask(__name__)
 
-#app.secret_key = '2f5ae96c-b558-4c7b-a590-a501ae1c3f6c'
 @app.route('/')
 def hello():
-	return "Pantalla de Inicio!"
+	return "Pantalla de Inicio! Autor: Vinicio Pazmino"
 
 @app.route('/DevOps', methods=['GET'])
 def DevOpsGET():
