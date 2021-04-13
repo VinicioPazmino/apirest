@@ -1,4 +1,4 @@
-# Banco Pichincha - DevOps Technical Assessment
+# DevOps Technical Assessment
 
 [![Build Status](https://dev.azure.com/vinidavid17/Pichincha-DevOps/_apis/build/status/apirest?branchName=master)](https://dev.azure.com/vinidavid17/Pichincha-DevOps/_build/latest?definitionId=3&branchName=master)
 
